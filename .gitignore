@@ -1,0 +1,11 @@
+# Build output
+build/
+
+# Dataset and cached features (too large for GitHub)
+data/*
+!data/README.md
+cache/
+
+# Mac and editor files
+.DS_Store
+.vscode/
